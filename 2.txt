@@ -1,3 +1,6 @@
-test 2222s 
-
-git add test restgit 
+1.git init =>  create the repository
+2.git add . =>  add all modified files is under track / git add xxx is only to add the track xxx file
+3.git status =>  watch the files status
+4.git log => show the commit status
+5.git commit -m 'xxxx' => check in the file with commment.
+6.test
