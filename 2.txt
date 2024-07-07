@@ -4,3 +4,4 @@
 4.git log => show the commit status
 5.git commit -m 'xxxx' => check in the file with commment.
 6.test
+7. ttttt 0707 
